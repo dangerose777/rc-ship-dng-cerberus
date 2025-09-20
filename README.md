@@ -11,4 +11,4 @@
 
 ## About The Project
 At the moment the project is waiting for money and my skills :PP  <br/>
-But if I start, more information will appear here, etc., and after finishing the project will be described on YouTube.
+But if I start, more information will appear here, etc., and after finishing the project will be also described on YouTube.
