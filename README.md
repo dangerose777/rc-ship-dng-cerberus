@@ -1,6 +1,6 @@
 <div id="start" align="center">
   <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f6a2.png" width="120"></img>
-  <h1>RC Ship "DNG Cerberus Nezumi"</h1>
+  <h1>RC Ship "DNG Cerberus"</h1>
   <p>Remotely controlled RC ship</p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
