@@ -1,5 +1,4 @@
 <div id="start" align="center">
-  <!-- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f6a2.png" width="120"></img> -->
   <h1>RC Ship "DNG Cerberus"</h1>
   <p>Remotely controlled ship</p>
   <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
